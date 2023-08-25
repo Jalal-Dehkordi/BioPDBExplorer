@@ -33,6 +33,7 @@ This code reads protein data files in a specified directory, extracts amino acid
 - `gz_extract`: Function to extract and process gzipped files.
 
 ## Output
+#Bioinformatics #ProteinAnalysis #BioPython
 
 Processed data and summary files will be saved in the 'output' directory. The 'summary.txt' file will contain information about the processed files and calculated probabilities.
 
